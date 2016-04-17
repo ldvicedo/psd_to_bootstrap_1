@@ -1,0 +1,31 @@
+body {
+	background: #fff;
+	margin: 0 auto;
+	padding: 0;
+}
+
+#header {
+	width: 100%;
+	margin: 0 auto;
+	height: auto;
+	background: url(images/slider-bg.jpg) no-repeat center top #43336c;
+}
+
+.comp-logo {
+	margin: -10px 0 0 0;
+}
+
+.navbar-default {
+    background: none !important;
+	border: none !important;
+}
+
+.carousel-inner-height {
+	height: 600px;
+}
+
+.section-1 {
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+}
